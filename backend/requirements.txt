@@ -1,0 +1,2 @@
+flask-script==2.0.6
+flask==1.0.2
