@@ -9,4 +9,4 @@ flake8-mutable==1.2.0
 flake8-print==3.1.0
 flake8-quotes==1.0.0
 # Ipython and other shell debug stuff
-ipython==7.16.3
+ipython==8.10.0
